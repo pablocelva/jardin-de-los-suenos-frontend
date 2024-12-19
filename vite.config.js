@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/pizzeria-mamma-mia-frontend/',
+  base: '/jardin-de-los-suenos-frontend/',
 })
